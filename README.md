@@ -18,9 +18,15 @@ Several older translations of the Bible are public domain. The text of the follo
 * World English Bible (WEB)
 * Young's Literal Translation (YLT)
 
-## Further reading
+## Note on the KJV
 
-The copyright status of the King James Version is unique. It is effectively public domain outside of the United Kingdom. Within the UK, [the rights are held by the Crown under Royal prerogative](https://en.wikipedia.org/wiki/King_James_Version#Copyright_status), and Cambridge University Press is authorized as Queen's Printer through [Letters patent](https://en.wikipedia.org/wiki/Letters_patent). I include the Cambridge University Press copyright notice here for reference to those interested.
+The status of the King James Version is unique, but I do not believe it's correct to say that it has entered the public domain. The rights are held by [the English Crown under Royal prerogative](https://en.wikipedia.org/wiki/King_James_Version#Copyright_status), and Cambridge University Press is authorized as Queen's Printer through [Letters patent](https://en.wikipedia.org/wiki/Letters_patent). 
+
+Since the KJV was not produced in the United States, US copyright law isn't relevant. Since it is protected in the jurisdiction of its creation, it is not publicly available. Under the laws of the jurisdiction in which the translation was created, the KJV has never been released to the public domain. 
+
+The Crown has retained those rights, and the Queen’s Printer publishes the text with generous standard permissions for its use.
+
+## Further reading
 
 Also, if interested, see the following pages:
 
