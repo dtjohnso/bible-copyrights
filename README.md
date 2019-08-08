@@ -4,6 +4,8 @@ This repository was created to house the copyright notices for major English Bib
 
 My aim is to facilitate translation choice for those who wish to quote the Bible and remain in good standing under United States and international copyright law. As always, note I am not a lawyer, and nothing in this repository should be considered as legal advice.
 
+Eventually, I may develop this further into a site similar to https://choosealicense.com/ 
+
 ## Public domain editions of the Bible
 
 Several older translations of the Bible are public domain. The text of the following translations is available here: https://github.com/scrollmapper/bible_databases
