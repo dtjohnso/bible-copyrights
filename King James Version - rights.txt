@@ -11,9 +11,9 @@ is permitted to a maximum of five hundred (500) words for liturgical and
 non-commercial educational use, subject to the following acknowledgement
 being included: 
 
-> Extracts from The Book of Common Prayer, the rights in which are vested
-in the Crown, are reproduced by permission of the Crown's patentee,
-Cambridge University Press
+	Extracts from The Book of Common Prayer, the rights in which are vested in
+	the Crown, are reproduced by permission of the Crown's patentee, Cambridge
+	University Press
 
 When quotations from the BCP text are used in materials not being made
 available for sale, such as church bulletins, orders of service,
@@ -40,10 +40,10 @@ Bible nor represent 25 per cent or more of the total text of the work in
 which they are quoted, subject to the following acknowledgement being
 included:
 
-> Scripture quotations from The Authorized (King James) Version. Rights
-in the Authorized Version in the United Kingdom are vested in the Crown.
-Reproduced by permission of the Crown's patentee, Cambridge University
-Press
+	Scripture quotations from The Authorized (King James) Version. Rights
+	in the Authorized Version in the United Kingdom are vested in the Crown.
+	Reproduced by permission of the Crown's patentee, Cambridge University
+	Press
 
 When quotations from the KJV text are used in materials not being made
 available for sale, such as church bulletins, orders of service,
@@ -71,9 +71,9 @@ Notice of copyright must appear as follows on the title or copyright
 page of printed works in which the NEB text is quoted, or in a
 corresponding location when the NEB is quoted in other media:
 
-> Scripture quotations taken from the New English Bible, copyright ©
-Cambridge University Press and Oxford University Press 1961, 1970. All
-rights reserved.
+	Scripture quotations taken from the New English Bible, copyright ©
+	Cambridge University Press and Oxford University Press 1961, 1970. All
+	rights reserved.
 
 When quotations from the NEB text are used in materials not being made
 available for sale, such as church bulletins, orders of service,
@@ -101,9 +101,9 @@ Notice of copyright must appear as follows on the title or copyright
 page of printed works in which the REB text is quoted, or in a
 corresponding location when the REB is quoted in other media:
 
-> Scripture quotations taken from the Revised English Bible, copyright ©
-Cambridge University Press and Oxford University Press 1989. All rights
-reserved.
+	Scripture quotations taken from the Revised English Bible, copyright ©
+	Cambridge University Press and Oxford University Press 1989. All rights
+	reserved.
 
 When quotations from the REB text are used in materials not being made
 available for sale, such as church bulletins, orders of service,

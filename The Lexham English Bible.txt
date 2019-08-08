@@ -45,7 +45,7 @@ You must always attribute quotations of the LEB.
 
 If you quote less than 100 verses of the LEB in a single work you can attribute it by simply adding (LEB) after the quotation. Longer quotations, or use of 100 or more verses in a single work, must be accompanied by the following statement:
 
-  Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2013 Lexham Press. Lexham Press is a registered trademark of Faithlife Corporation.
+	Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2013 Lexham Press. Lexham Press is a registered trademark of Faithlife Corporation.
 
 In electronic use, link “LEB” and “Lexham English Bible” to http://lexhamenglishbible.com, and “Lexham Press” to http://lexhampress.com. If all quotations are unmarked and from the LEB, you may remove “marked (LEB) are” from the statement.
 
